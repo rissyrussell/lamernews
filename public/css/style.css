@@ -6,14 +6,14 @@ body {
 }
 
 a {
-    text-decoration:none;
-    color:#666;
+    text-decoration:underline;
+    color:#F06;
 }
 
 h2 {
     margin-bottom:20px;
     font-size:22px;
-    color:#333;
+    color:#09F;
 }
 
 li {

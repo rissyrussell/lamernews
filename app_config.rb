@@ -1,14 +1,14 @@
 # General
-SiteName = "Lamer News"
+SiteName = "Visually Feature Requests"
 SiteUrl = "http://lamernews.com"
-SiteDescription = "Programming News"
+SiteDescription = "Product Feature Requests"
 
 # Redis config
-RedisURL = "redis://127.0.0.1:10000"
+RedisURL = " redis://redistogo:67f7246e4e4af061af545f5be0a7537a@barreleye.redistogo.com"
 
 # Security
 PBKDF2Iterations = 1000 # Set this to 5000 to improve security. But it is slow.
-UseOpenSSL = false
+UseOpenSSL = true
 PasswordMinLength = 8
 
 # Comments
